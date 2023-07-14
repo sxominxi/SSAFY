@@ -7,3 +7,4 @@ git add .
 git commit -m '아무 이름'
 다음 github 복붙
 
+왜 pull이 안될까 이해가 안되네

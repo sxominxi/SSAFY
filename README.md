@@ -11,3 +11,10 @@ git commit -m '아무 이름'
 
 git push -u origin master를 해야되네 ㅋㅋ
 왜 또 안돼 돌앗나
+
+이제 진짜 알았다
+수정 하고
+ git add . 하고
+ git commit -m '아무이름' 하고
+ git push -u origin master 해야댐
+ 

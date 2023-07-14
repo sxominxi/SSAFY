@@ -8,3 +8,6 @@ git commit -m '아무 이름'
 다음 github 복붙
 
 왜 pull이 안될까 이해가 안되네
+
+git push -u origin master를 해야되네 ㅋㅋ
+왜 또 안돼 돌앗나
